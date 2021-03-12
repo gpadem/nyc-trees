@@ -27,6 +27,7 @@ The Department of Environmental Conservation, from New York city, has recently m
 
 * Installation
 * Repository
+* Visual
 * Pending things to do
 * Thanks
 * Collaboration
@@ -59,6 +60,7 @@ The structure:
 * data_clean_GOOD_ENOUGH.csv
 * nyc-trees-exploration.ipynb
 * .gitignore
+* nyc-trees.png
 
 `README.md`
 You are reading it now. It is important to read the whole file before forking or cloning.
@@ -72,9 +74,17 @@ This Jupyter notebook is where the results of each step of the code to deduct a 
 `.gitignore`
 This file is to ignore the notebook checkpoints.
 
+`nyc-trees.png`
+This file has a graph image of the count of trees by their common name
+
+
 #### Development Branch
 
 Can be discarded for now. Will be back in use for the further developments of the project and the README file will be updated accordingly.
+
+### Visual
+
+![Count of trees by their common name](nyc-trees.png)
 
 ### Pending things to do
 
