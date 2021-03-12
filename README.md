@@ -78,7 +78,13 @@ Can be discarded for now. Will be back in use for the further developments of th
 
 ### Pending things to do
 
-Because the purpose of the dataset is very broad, the dataset was not manipulated in great lengths. However if the project timeframe was longer, it would be interesting to explore the relationship between the different columns of the dataset and even create new variables. The next step in this project will definetely be teh possible relationships.
+Because the purpose of the dataset is very broad, the dataset was not manipulated in great lengths. However if the project timeframe was longer, it would be interesting to explore the relationship between the different columns of the dataset and even create new variables. The next step in this project will definetely be the possible relationships such as:
+
+* Can we find what kind of damages are the most severe for the trees or even life threathening?
+* Can we gather external data about dead and stumped trees by the help of their location information and find out about possible causes for their end of life and fill in the missing values about them with more insight?
+* Does having a stewardess keep a tree more healthy?
+* Are guards keeping the trees safe?
+* Can we gather external data such as oxygen production, carbon dioxide reduction, etc. by looking at the species and the size of a tree?
 
 ### Thanks
 
