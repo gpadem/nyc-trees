@@ -77,14 +77,13 @@ This file is to ignore the notebook checkpoints.
 `nyc-trees.png`
 This file has a graph image of the count of trees by their common name
 
-
 #### Development Branch
 
 Can be discarded for now. Will be back in use for the further developments of the project and the README file will be updated accordingly.
 
 ### Visual
 
-![Count of trees by their common name](nyc-trees.png)
+![Count of trees by their common name](image/nyc-trees.PNG)
 
 ### Pending things to do
 
