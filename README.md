@@ -44,7 +44,7 @@ Jupyter Notebook was installed and launched from the Conda navigator activated i
 
 ### Repository
 
-There were two branches under the repository.
+There are two branches under the repository.
 
 * main
 * development
@@ -72,9 +72,13 @@ This Jupyter notebook is where the results of each step of the code to deduct a 
 `.gitignore`
 This file is to ignore the notebook checkpoints.
 
+#### Development Branch
+
+Can be discarded for now. Will be back in use for the further developments of the project and the README file will be updated accordingly.
+
 ### Pending things to do
 
-Because the purpose of the dataset is very broad, the dataset was not manipulated in great lengths. However if the project timeframe was longer, it would be interesting to explore the relationship between the different columns of the dataset and even create new variables. The next step in this project will be definetely relationships.
+Because the purpose of the dataset is very broad, the dataset was not manipulated in great lengths. However if the project timeframe was longer, it would be interesting to explore the relationship between the different columns of the dataset and even create new variables. The next step in this project will definetely be teh possible relationships.
 
 ### Thanks
 
