@@ -27,7 +27,6 @@ The Department of Environmental Conservation, from New York city, has recently m
 
 * Installation
 * Repository
-* Visual
 * Pending things to do
 * Thanks
 * Collaboration
